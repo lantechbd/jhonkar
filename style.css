@@ -5,11 +5,14 @@ body{
 
 .half-width-1st{
     width: 50%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 2%;
 }
 .section-1st{
     display: flex;
-    margin-left: 5%;
-    margin-right: 5%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 h1{
